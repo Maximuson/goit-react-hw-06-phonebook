@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Maximuson/goit-react-hw-06-phonebook/static/css/main.edfdf93e.chunk.css",
+    "main.js": "/Maximuson/goit-react-hw-06-phonebook/static/js/main.824583e0.chunk.js",
+    "main.js.map": "/Maximuson/goit-react-hw-06-phonebook/static/js/main.824583e0.chunk.js.map",
+    "runtime-main.js": "/Maximuson/goit-react-hw-06-phonebook/static/js/runtime-main.96007288.js",
+    "runtime-main.js.map": "/Maximuson/goit-react-hw-06-phonebook/static/js/runtime-main.96007288.js.map",
+    "static/js/2.a8cdc442.chunk.js": "/Maximuson/goit-react-hw-06-phonebook/static/js/2.a8cdc442.chunk.js",
+    "static/js/2.a8cdc442.chunk.js.map": "/Maximuson/goit-react-hw-06-phonebook/static/js/2.a8cdc442.chunk.js.map",
+    "index.html": "/Maximuson/goit-react-hw-06-phonebook/index.html",
+    "precache-manifest.fa7b8bacf74badc69af6b05b4a2ad68e.js": "/Maximuson/goit-react-hw-06-phonebook/precache-manifest.fa7b8bacf74badc69af6b05b4a2ad68e.js",
+    "service-worker.js": "/Maximuson/goit-react-hw-06-phonebook/service-worker.js",
+    "static/css/main.edfdf93e.chunk.css.map": "/Maximuson/goit-react-hw-06-phonebook/static/css/main.edfdf93e.chunk.css.map",
+    "static/js/2.a8cdc442.chunk.js.LICENSE.txt": "/Maximuson/goit-react-hw-06-phonebook/static/js/2.a8cdc442.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96007288.js",
+    "static/js/2.a8cdc442.chunk.js",
+    "static/css/main.edfdf93e.chunk.css",
+    "static/js/main.824583e0.chunk.js"
+  ]
+}
